@@ -1,0 +1,94 @@
+{
+  "customers": [
+    {
+      "id": "c001",
+      "name": "Amara Okafor",
+      "email": "amara@shopLagos.ng",
+      "phone": "+2348031234567",
+      "tier": "gold",
+      "totalSpend": 540000,
+      "active": true
+    },
+    {
+      "id": "c002",
+      "name": "Emeka Nwosu",
+      "email": "emeka@nwosustores.ng",
+      "phone": "+2348059876543",
+      "tier": "silver",
+      "totalSpend": 210000,
+      "active": true
+    },
+    {
+      "id": "c003",
+      "name": "Fatima Bello",
+      "email": "fatima@bellofashion.ng",
+      "phone": "+2348077651234",
+      "tier": "bronze",
+      "totalSpend": 85000,
+      "active": false
+    },
+    {
+      "id": "c004",
+      "name": "Chukwudi Eze",
+      "email": "chukwudi@ezetech.ng",
+      "phone": "+2348023456789",
+      "tier": "gold",
+      "totalSpend": 920000,
+      "active": true
+    },
+    {
+      "id": "c005",
+      "name": "Ngozi Adeyemi",
+      "email": "ngozi@adeyemibags.ng",
+      "phone": "+2348041239876",
+      "tier": "silver",
+      "totalSpend": 315000,
+      "active": true
+    },
+    {
+      "id": "c006",
+      "name": "Tunde Fashola",
+      "email": "tunde@fashola.ng",
+      "phone": "+2348065432198",
+      "tier": "bronze",
+      "totalSpend": 42000,
+      "active": false
+    },
+    {
+      "id": "c007",
+      "name": "Ifeoma Obi",
+      "email": "ifeoma@obicrafts.ng",
+      "phone": "+2348092345671",
+      "tier": "gold",
+      "totalSpend": 780000,
+      "active": true
+    },
+    {
+      "id": "c008",
+      "name": "Seun Adebayo",
+      "email": "seun@adebayodrip.ng",
+      "phone": "+2348018765432",
+      "tier": "silver",
+      "totalSpend": 190000,
+      "active": true
+    },
+    {
+      "id": "c009",
+      "name": "Musa Ibrahim",
+      "email": "musa@ibrahimspice.ng",
+      "phone": "+2348056781234",
+      "tier": "bronze",
+      "totalSpend": 63000,
+      "active": true
+    },
+    {
+      "id": "c010",
+      "name": "Chisom Onyeka",
+      "email": "chisom@onyekabeads.ng",
+      "phone": "+2348034561278",
+      "tier": "gold",
+      "totalSpend": 1100000,
+      "active": true
+    }
+  ]
+}
