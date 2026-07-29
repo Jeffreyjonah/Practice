@@ -12,7 +12,6 @@ function getCustomers(req, res) {
   //   const activeBool = active === undefined ? undefined : active === 'true';
   //   if (activeBool === undefined) {
   //     customers = customers.filter(c => c.active === activeBool);
-
   //   }
   // }
 
