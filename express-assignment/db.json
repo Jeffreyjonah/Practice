@@ -89,6 +89,39 @@
       "tier": "gold",
       "totalSpend": 1100000,
       "active": true
+    },
+    {
+      "id": "c011",
+      "name": "Jeffrey Jonathan",
+      "email": "jeffreyjonathan@gmail.com",
+      "phone": "07044455677",
+      "tier": "gold",
+      "totalSpend": 0,
+      "active": true
+    }
+  ],
+  "users": [
+    {},
+    {
+      "email": "jeffreyjonathan@gmail.com",
+      "password": "$2b$10$dvv66edk85d9URKN79ptxe0oRXf9lhKCh2AxW0.igo3oyLpgzOkya"
+    },
+    {
+      "email": "danieldavid@gmail.com",
+      "password": "$2b$10$17XdCH1B9r9DxVx3TeP9uuDjVWqZgT8GXScCrkYkNxgc44RVD/jUK"
+    },
+    {
+      "email": "johnmike@gmail.com",
+      "password": "$2b$10$PpzAEvZ0TAiTQWEF0a6g0.Jc.wIg5psQD1cHLO0KFqktT0LzYlro."
+    },
+    {
+      "email": "collinsjoe@gmail.com",
+      "password": "$2b$10$aTBqPsnqQf7O6Yo6Xd75uufJxq1BWNnYsvPkp.ZbZk4VMSI3j9u/K"
+    },
+    {
+      "id": "u006",
+      "email": "salihatbalarabe@gmail.com",
+      "password": "$2b$10$FJeDs0/R0d39jrl3tkmuN.CcW5v4SLmT65eoEG08AhVizCP90daCi"
     }
   ]
 }
