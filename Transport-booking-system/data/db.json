@@ -1,0 +1,93 @@
+{
+  "users": [
+    {},
+    {
+      "id": "e33efe86-f00d-4df6-a3d1-157048b54288",
+      "name": "jeffrey jonathan",
+      "email": "jeffreyjonathan132@gmail.com",
+      "passwordHash": "$2b$10$DCKmTF9gdLPr4B0nvDxJzOUEoA/TR/8CAQT2QgK7.PLOkRhqlsT0K",
+      "role": "user",
+      "refreshTokens": [],
+      "resetToken": null,
+      "resetTokenExpiry": null,
+      "createdAt": "2026-09-16T06:03:01.433Z"
+    },
+    {
+      "id": "e96ff6bd-7994-4716-9a77-bbb966eeb3b4",
+      "name": "jeffrey jonathan",
+      "email": "jeffreyjonathan@gmail.com",
+      "passwordHash": "$2b$10$NcLTFHynhUuf4en70aX2UeeL7c9Ip6wbDCW363FwcqgKRwBaSorTa",
+      "role": "admin",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU5NmZmNmJkLTc5OTQtNDcxNi05YTc3LWJiYjk2NmVlYjNiNCIsImlhdCI6MTc5MDA1MTI3MywiZXhwIjoxNzkwNjU2MDczfQ.eWTHlhfek_QxIijgeiHS-F7NfuFesM0qjKNNkkn2pzk",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU5NmZmNmJkLTc5OTQtNDcxNi05YTc3LWJiYjk2NmVlYjNiNCIsImlhdCI6MTc5MDA1MTgyNiwiZXhwIjoxNzkwNjU2NjI2fQ.nR3AgIeHk8ZBv8TCRrphf8y0iNqs-BJ3T2uf7gPFgUY",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU5NmZmNmJkLTc5OTQtNDcxNi05YTc3LWJiYjk2NmVlYjNiNCIsImlhdCI6MTc5MDA1MjgxMiwiZXhwIjoxNzkwNjU3NjEyfQ.Wg-p8G2KJ_jFWpMWy_H1Sxrw-FIatQFE7l7ezYuMHyk",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU5NmZmNmJkLTc5OTQtNDcxNi05YTc3LWJiYjk2NmVlYjNiNCIsImlhdCI6MTc5MDA1NDU3NSwiZXhwIjoxNzkwNjU5Mzc1fQ.TVnVx2tjnu4KEZdXohGGJJKCs49fcurWuQj4wUbwMXQ",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU5NmZmNmJkLTc5OTQtNDcxNi05YTc3LWJiYjk2NmVlYjNiNCIsImlhdCI6MTc5MDA1NTA0MywiZXhwIjoxNzkwNjU5ODQzfQ.06Knvp4MKzP0rkRKDnna9AjW16N0eOJDpgtgeOMe2w0",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU5NmZmNmJkLTc5OTQtNDcxNi05YTc3LWJiYjk2NmVlYjNiNCIsImlhdCI6MTc5MDA1NjMzNSwiZXhwIjoxNzkwNjYxMTM1fQ.qesYC6pZyxa8FGlw6uvHxpBJaqi5CnHRncWc7QUcCOY"
+      ],
+      "resetToken": null,
+      "resetTokenExpiry": null,
+      "createdAt": "2026-09-16T06:04:55.445Z"
+    },
+    {
+      "id": "4281fa6d-98fc-47f3-a41f-8c4fc2370a40",
+      "name": "Didi Jonah",
+      "email": "didijonah@gmail.com",
+      "passwordHash": "$2b$10$NXSLXXRTpbzMcAPZpWURW.6p98lXEe/5X71y2KCVq2liFMhLWAIg.",
+      "role": "user",
+      "refreshTokens": [
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQyODFmYTZkLTk4ZmMtNDdmMy1hNDFmLThjNGZjMjM3MGE0MCIsImlhdCI6MTc4OTYyNDQ3OCwiZXhwIjoxNzkwMjI5Mjc4fQ.FaOkXkQViaGBl3tNMHuNIv5MYhwP4Vm60KZ6Kvh338Y",
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjQyODFmYTZkLTk4ZmMtNDdmMy1hNDFmLThjNGZjMjM3MGE0MCIsImlhdCI6MTc5MDA1NzQwMiwiZXhwIjoxNzkwNjYyMjAyfQ.rWpZ9674h3B_xFdR1rkJnhHMwJ6tB5jVkFQA58NrnjI"
+      ],
+      "resetToken": null,
+      "resetTokenExpiry": null,
+      "createdAt": "2026-09-17T05:33:10.302Z"
+    }
+  ],
+  "trips": [
+    {
+      "id": "uuid",
+      "origin": "Lagos",
+      "destination": "Ibadan",
+      "departureTime": "2026-09-29T07:00:00.000Z",
+      "vehicle": "Toyota Hiace",
+      "totalSeats": 14,
+      "seatsBooked": [
+        "1A",
+        "1B"
+      ],
+      "price": 5000
+    },
+    {
+      "id": "42e9ffa0-e4ee-4c85-b426-b158c24c61ee",
+      "origin": "Lagos",
+      "destination": "Ibadan",
+      "departureTime": "2026-09-25T07:00:00.000Z",
+      "vehicle": "Toyota Hiace",
+      "totalSeats": 14,
+      "seatsBooked": [
+        "1A"
+      ],
+      "price": 5000
+    }
+  ],
+  "bookings": [
+    {
+      "id": "uuid",
+      "userId": "uuid-of-user",
+      "tripId": "uuid-of-trip",
+      "seat": "1A",
+      "status": "confirmed",
+      "createdAt": "2026-07-27T10:00:00.000Z"
+    },
+    {
+      "id": "88282307-1677-4ba2-9983-9e730a7bb8a6",
+      "userId": "4281fa6d-98fc-47f3-a41f-8c4fc2370a40",
+      "tripId": "42e9ffa0-e4ee-4c85-b426-b158c24c61ee",
+      "seat": "1A",
+      "status": "confirmed",
+      "createdAt": "2026-09-22T06:12:03.761Z"
+    }
+  ]
+}
